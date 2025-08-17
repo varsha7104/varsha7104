@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Hima Varsha</h1>
-<h3 align="center">A passionate frontend developer from India</h3> 
+<h3 align="center">A passionate frontend developer from India </h3> 
 <img src="![image](https://github.com/user-attachments/assets/687fd483-c581-46f2-8173-b01098b4d133)" alt="coding" align="right" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varsha7104&label=Profile%20views&color=0e75b6&style=flat" alt="varsha7104" /> </p>
